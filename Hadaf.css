@@ -1,0 +1,69 @@
+.header{
+    width:100%;
+    height:250px;
+   background-color:darkseagreen;
+   display: flex;
+}.main{
+    width:100%;
+    height:500px;
+}
+body{
+    margin:0;
+}
+.logo{
+    width:50%;
+}
+.info{
+    width:50%;
+}
+.logo-image{
+    width:max-content;
+    height:250px;
+    padding-left:90px;
+   
+}
+.contact{
+    text-align:center;
+    font-size:50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:darkgreen
+
+}
+.navbar{
+   background-color:#fff;  
+   width:100%;
+   height:55px;
+   border-bottom:5px solid darkgreen;
+}
+.navbar-opt{
+   font-family:cursive;
+   font-size:25px;
+   color: darkgreen;
+   margin:200px;
+}
+.story{
+    font-family:cursive;
+    font-size:25px;
+    color:darkgreen;
+    text-align:left;
+}
+.para{
+    margin-left:10%;
+    float:left;
+    width:40%;
+}
+.image{
+    margin-left:890px;   
+}
+.coffee-bean{
+    margin:0;
+    width:100%;
+    height: 450px;;
+}
+.to-home{
+    font-family:cursive;
+    font-size:25px;
+    color:darkgreen;
+    margin-left:90px;
+    margin-top:40px;
+}

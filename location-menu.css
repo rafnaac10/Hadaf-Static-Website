@@ -1,0 +1,53 @@
+.loc-logo{
+   padding-left:25%;
+   height:200px;
+   width:auto;
+}
+.address{
+padding-top:121px;
+ font-family:cursive;
+ font-size:30px;
+ color: darkgreen;
+ margin-left:10%;
+}
+.loc{
+ margin-left:-20%;
+  font-family:fantasy;
+  color:darkgreen;
+  font-size:30px;
+}
+.coffee-spill{
+    width:auto;
+    height:25%;
+    margin:0;
+}
+.address-div{
+    width:50%;
+}
+.loc-div{
+    width:50%;
+    float:right;
+    margin-top:-270px;
+}
+.full-body{
+ background-image: url(https://tse2.mm.bing.net/th/id/OIP.CP8_X9s_NBcUfhcQ5DLmywHaE8?r=0&pid=Api);
+ background-size:cover;
+}.menu{
+    height:800px;
+    margin-left:600px;
+    width:700px;
+    float:left;
+    margin-top:-990px;
+}
+.bean{
+    height:990px;
+    width:340px;
+    margin:30px;
+    margin-top:0;
+}
+.right{
+    width:50%;
+}
+.left{
+    width:50%;
+}
